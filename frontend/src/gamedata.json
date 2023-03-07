@@ -1,0 +1,2446 @@
+
+
+        {
+    "name": "Idle Breakout",
+    "path": "gfiles/gfiles/html5/idle-breakout/index.html",
+    "img": "gfiles/gfiles/html5/idle-breakout/idle.png"
+        },
+
+  {
+    "name": "Getaway Shootout",
+    "path": "gfiles/gfiles/html5/getaway-shootout/index.html",
+    "img": "gfiles/gfiles/html5/getaway-shootout/img/index.jpg"
+},
+
+   {
+      "name": "Retro Bowl",
+      "path": "gfiles/gfiles/html5/retrobowl/retro-bowl-main/index.html",
+      "img": "assets/images/retro-bowl.jpg"
+  },
+
+  {   "name": "Papas Pizzeria",
+         "path": "gfiles/gfiles/flash/waflash/papas-pizzeria/index.html",
+         "img" : "assets/images/papas-pizza"
+     },
+     {   "name": "Papas Burgeria",
+         "path": "gfiles/gfiles/flash/waflash/papas-burgeria/index.html",
+         "img" : "assets/images/img64"
+     },
+     {   "name": "Papas HotDoggeria",
+         "path": "gfiles/gfiles/flash/waflash/papas-hot-doggeria/index.html",
+         "img" : "assets/images/papas-hotdog.png"
+     },
+     {   "name": "Papas Wingeria",
+         "path": "gfiles/gfiles/flash/waflash/papas-wingeria/index.html",
+        "img" : "assets/images/wingeria.jpg"
+       },
+       {   "name": "Papas Freezeria",
+         "path": "gfiles/gfiles/flash/waflash/papas-wingeria/index.html",
+        "img" : "assets/images/freezeria.jpg"
+       },
+       {   "name": "Papas Pancakeria",
+         "path": "gfiles/gfiles/flash/waflash/papas-wingeria/index.html",
+        "img" : "assets/images/pancakeria.jpg"
+       },
+       {   "name": "Papas Sushiria",
+         "path": "gfiles/gfiles/flash/waflash/papas-wingeria/index.html",
+        "img" : "assets/images/sushiria.jpg"
+       },
+       {   "name": "Papas Bakeria",
+         "path": "gfiles/gfiles/flash/waflash/papas-bakeria/index.html",
+        "img" : "assets/images/bakeria.jpg"
+       },
+       {   "name": "Papas Cheeseria",
+         "path": "gfiles/gfiles/flash/waflash/papas-cheeseria/index.html",
+        "img" : "assets/images/cheeseria.jpg"
+       },
+       {   "name": "Papas Cupcakeria",
+         "path": "gfiles/gfiles/flash/waflash/papas-cupcakeria/index.html",
+        "img" : "assets/images/cupcakeria.jpg"
+       },
+       {   "name": "Papas Donuteria",
+         "path": "gfiles/gfiles/flash/waflash/papas-donuteria/index.html",
+        "img" : "assets/images/donuteria.jpg"
+       },
+       {   "name": "Papas Pastaria",
+         "path": "gfiles/gfiles/flash/waflash/papas-pastaria/index.html",
+        "img" : "assets/images/pastaria.jpg"
+       },
+       {   "name": "Papas Scooperia",
+         "path": "gfiles/gfiles/flash/waflash/papas-scooperia/index.html",
+        "img" : "assets/images/scooperia.jpg"
+       },
+   
+       {
+           "name": "1on1soccer",
+           "path": "gfiles/gfiles/flash/?swf=1on1soccer.swf",
+           "img" : "assets/images/img91.jpg"
+       },
+       {
+        "name": "Ngon",
+        "path": "gfiles/gfiles/html5/n-gon/index.html",
+        "img" : "assets/images/img26.png"
+    },
+       {
+           "name": "Battlepanic",
+           "path": "gfiles/gfiles/flash/?swf=battlepanic.swf",
+           "img" : "assets/images/img105.webp"
+       },
+       {
+           "name": "Bloonsplayerpack2",
+           "path": "gfiles/gfiles/flash/?swf=bloonsplayerpack2.swf",
+           "img" : "assets/images/img106.webp"
+       },
+       {
+           "name": "Bloonsplayerpack3",
+           "path": "gfiles/gfiles/flash/?swf=bloonsplayerpack3.swf",
+           "img" : "assets/images/img107.webp"
+       },
+       {
+           "name": "Bloonsplayerpack4",
+           "path": "gfiles/gfiles/flash/?swf=bloonsplayerpack4.swf",
+           "img" : "assets/images/img108.webp"
+       },
+       {
+           "name": "Bloonsplayerpack5",
+           "path": "gfiles/gfiles/flash/?swf=bloonsplayerpack5.swf",
+           "img" : "assets/images/img109.png"
+       },
+       {
+           "name": "Bloonstd1",
+           "path": "gfiles/gfiles/flash/?swf=bloonstd1.swf",
+           "img" : "assets/images/img110.jpg"
+       },
+       {
+           "name": "Bloonstd3",
+           "path": "gfiles/gfiles/flash/?swf=bloonstd3.swf",
+           "img" : "assets/images/img111.jpg"
+       },
+       {
+           "name": "Bloonstd4",
+           "path": "gfiles/gfiles/flash/?swf=bloonstd4.swf",
+           "img" : "assets/images/112.png"
+       },
+       {
+           "name": "Bloonstd5",
+           "path": "gfiles/gfiles/flash/?swf=bloonstd5.swf",
+           "img" : "assets/images/113.png"
+       },
+       {
+           "name": "Bobtherobber",
+           "path": "gfiles/gfiles/flash/?swf=bobtherobber.swf",
+           "img" : "assets/images/img114.jpg"
+       },
+       {
+           "name": "Boombot2",
+           "path": "gfiles/gfiles/flash/?swf=boombot2.swf",
+           "img" : "assets/images/img115.png"
+       },
+       {
+           "name": "Boxhead2play",
+           "path": "gfiles/gfiles/flash/?swf=boxhead2",
+           "img" : "assets/images/img116.webp"
+       },
+       {
+           "name": "Bubbletanks2",
+           "path": "gfiles/gfiles/flash/?swf=bubbletanks2.swf",
+           "img" : "assets/images/img117.jpg"
+       },
+       {
+           "name": "Bulletbill",
+           "path": "gfiles/gfiles/flash/?swf=bulletbill.swf",
+           "img" : "assets/images/img118.webp"
+       },
+       {
+           "name": "Burritobison",
+           "path": "gfiles/gfiles/flash/?swf=burritobison.swf",
+           "img" : "assets/images/121.avif"
+       },
+       {
+           "name": "Burritobisonrevenge",
+           "path": "gfiles/gfiles/flash/?swf=burritobisonrevenge.swf",
+           "img" : "assets/images/img122.jpg"
+       },
+       {
+           "name": "Cactusmccoy",
+           "path": "gfiles/gfiles/flash/?swf=cactusmccoy.swf",
+           "img" : "assets/images/img123.jpg"
+       },
+       {
+           "name": "Cactusmccoy2",
+           "path": "gfiles/gfiles/flash/?swf=cactusmccoy2.swf",
+           "img" : "assets/images/img124.jpg"
+       },
+       {
+           "name": "Cannonbasketball2",
+           "path": "gfiles/gfiles/flash/?swf=cannonbasketball2.swf",
+           "img" : "assets/images/img125.jpg"
+       },
+       {
+           "name": "Cargobridge",
+           "path": "gfiles/gfiles/flash/?swf=cargobridge.swf",
+           "img" : "assets/images/img126.png"
+       },
+       {
+           "name": "Causality",
+           "path": "gfiles/gfiles/flash/?swf=causality.swf",
+           "img" : "assets/images/img127.jpg"
+       },
+       {
+           "name": "Chibiknight",
+           "path": "gfiles/gfiles/flash/?swf=chibiknight.swf",
+           "img" : "assets/images/img128.png"
+       },
+   
+       {
+           "name": "Computerbashing",
+           "path": "gfiles/gfiles/flash/?swf=computerbashing.swf",
+           "img" : "assets/images/img130.webp"
+       },
+       {
+           "name": "Crushthecastle",
+           "path": "gfiles/gfiles/flash/?swf=crushthecastle.swf",
+           "img" : "assets/images/img131.jpg"
+       },
+       {
+           "name": "3d Tanks",
+           "path": "gfiles/gfiles/flash/?swf=3dtanks.swf",
+           "img" : "assets/images/img92.webp"
+       },
+       {
+           "name": "Abobosbigadventure",
+           "path": "gfiles/gfiles/flash/?swf=abobosbigadventure.swf",
+           "img" : "assets/images/img93.jpg"
+       },
+      
+       {
+           "name": "Actionturnip",
+           "path": "gfiles/gfiles/flash/?swf=actionturnip.swf",
+           "img" : "assets/images/img97.webp"
+       },      
+       {
+           "name": "Adaran",
+           "path": "gfiles/gfiles/flash/?swf=adaran.swf",
+           "img" : "assets/images/img150.png"
+       },       
+       {
+           "name": "Adrenaline",
+           "path": "gfiles/gfiles/flash/?swf=adrenaline.swf",
+           "img" : "assets/images/img98.png"
+       },  
+       {
+           "name": "Americanracing1",
+           "path": "gfiles/gfiles/flash/?swf=americanracing1.swf",
+           "img" : "assets/images/img99.jpg"
+       },  
+       {
+           "name": "Americanracing2",
+           "path": "gfiles/gfiles/flash/?swf=americanracing2.swf",
+           "img" : "assets/images/img100.webp"
+       }, 
+       
+       {
+           "name": "Armyofages",
+           "path": "gfiles/gfiles/flash/?swf=armyofages.swf",
+           "img" : "assets/images/img102.jpg"
+       },
+       {
+           "name": "Awesomecars",
+           "path": "gfiles/gfiles/flash/?swf=awesomecars.swf",
+           "img" : "assets/images/img103.jpg"
+       },
+       {
+           "name": "Awesomeplanes",
+           "path": "gfiles/gfiles/flash/?swf=awesomeplanes.swf",
+           "img" : "assets/images/img104.jpg"
+       },
+       {
+           "name": "2048",
+           "path": "gfiles/gfiles/html5/2048/index.html",
+           "img" : "assets/images/img32.png"
+       }, 
+       {
+           "name": "Dark Room",
+           "path": "gfiles/gfiles/html5/adarkroom/index.html",
+           "img" : "assets/images/img69.jpg"
+       }, 
+       {
+           "name": "Asteroids",
+           "path": "gfiles/gfiles/html5/asteroids/index.html",
+           "img" : "assets/images/img70.jpg"
+       }, 
+       {
+           "name": "Astray",
+           "path": "gfiles/gfiles/html5/astray/index.html",
+           "img" : "assets/images/img71.png"
+       },  
+       {
+           "name": "Black Hole Square",
+           "path": "gfiles/gfiles/html5/blackholesquare/index.html",
+           "img" : "assets/images/img72.jpg"
+       },
+       
+       {
+           "name": "Bounce Back",
+           "path": "gfiles/gfiles/html5/bounceback/index.html",
+           "img" : "assets/images/img73.png"
+       }, 
+       {
+           "name": "Break Lock",
+           "path": "gfiles/gfiles/html5/breaklock/index.html",
+           "img" : "assets/images/img74.jpg"
+       }, 
+       {
+           "name": "Breakout",
+           "path": "gfiles/gfiles/html5/breakout/index.html",
+           "img" : "assets/images/img75.jpg"
+       }, 
+       {
+           "name": "Chess",
+           "path": "gfiles/gfiles/html5/chess/index.html",
+           "img" : "assets/images/img77.jpg"
+       }, 
+       {
+           "name": "Chrome Dino",
+           "path": "gfiles/gfiles/html5/chromedino/index.html",
+           "img" : "assets/images/img78.png"
+       }, 
+       {
+           "name": "Connect 4",
+           "path": "gfiles/gfiles/html5/connect3/index.html",
+           "img" : "assets/images/img78.jpg"
+       }, 
+       {
+           "name": "Evil Glitch",
+           "path": "gfiles/gfiles/html5/evilglitch/index.html",
+           "img" : "assets/images/img80.jpg"
+       }, 
+       {
+           "name": "Geometry Dash",
+           "path": "gfiles/gfiles/html5/geometrydash/index.html",
+           "img" : "assets/images/img33.png"
+       },
+       
+       {
+           "name": "Packabunchas",
+           "path": "gfiles/gfiles/html5/packabunchas/index.html",
+           "img" : "assets/images/img82.jpg"
+       },
+       {
+           "name": "Particle Clicker",
+           "path": "gfiles/gfiles/html5/particleclicker/index.html",
+           "img" : "assets/images/img83.png"
+       },
+       {
+           "name": "Pac Man",
+           "path": "gfiles/gfiles/html5/pacman/index.html",
+           "img" : "assets/images/img173.jpeg"
+       },
+       {
+           "name": "Radius Raid",
+           "path": "gfiles/gfiles/html5/radiusraid/index.html",
+           "img" : "assets/images/87.png"
+       },
+       {
+           "name": "Space Garden",
+           "path": "gfiles/gfiles/html5/spacegarden/index.html",     
+           "img" : "assets/images/img88.jpg"
+
+       },
+       {
+           "name": "Tower Master",
+           "path": "gfiles/gfiles/html5/towermaster/index.html",
+           "img" : "assets/images/img89"
+       },
+       {
+           "name": "xx142-b2.exe",
+           "path": "gfiles/gfiles/html5/xx142-b2exe/index.html",
+           "img" : "assets/images/img90.webp"
+       },
+       
+       {
+           "name": "Crushthecastle2",
+           "path": "gfiles/gfiles/flash/?swf=crushthecastle2.swf",
+           "img" : "assets/images/img132.jpg"
+       },
+       {
+           "name": "Cubefield",
+           "path": "gfiles/gfiles/flash/?swf=cubefield.swf",
+           "img" : "assets/images/img133.jpg"
+       },
+       {
+           "name": "Cyclomaniacs2",
+           "path": "gfiles/gfiles/flash/?swf=cyclomaniacs2.swf",
+           "img" : "assets/images/img134.png"
+       },
+       {
+           "name": "Diggy",
+           "path": "gfiles/gfiles/flash/?swf=diggy.swf",
+           "img" : "assets/images/img135.jpg"
+       },
+       {
+           "name": "Donkeykong",
+           "path": "gfiles/gfiles/flash/?swf=donkeykong.swf",
+           "img" : "assets/images/img136.jpg"
+       },
+       {
+           "name": "Konnekt",
+           "path": "gfiles/gfiles/html5/konnekt/index.html",
+           "img" : "assets/images/img81.jpg"
+       },
+       {
+           "name": "Doodledefender",
+           "path": "gfiles/gfiles/flash/?swf=doodledefender.swf",
+           "img" : "assets/images/img138.jpg"
+       },
+       {
+           "name": "Doom",
+           "path": "gfiles/gfiles/flash/?swf=doom.swf",
+           "img" : "assets/images/img139.jfif"
+       },
+       {
+           "name": "Dragracing",
+           "path": "gfiles/gfiles/flash/?swf=dragracing.swf",
+           "img" : "assets/images/img140.png"
+       },
+       {
+           "name": "Ducklife",
+           "path": "gfiles/gfiles/flash/?swf=ducklife.swf",
+           "img" : "assets/images/img141.png"
+       },
+       {
+           "name": "Ducklife2",
+           "path": "gfiles/gfiles/flash/?swf=ducklife2.swf",
+           "img" : "assets/images/img142.avif"
+       },
+       {
+           "name": "Ducklife3",
+           "path": "gfiles/gfiles/flash/?swf=ducklife3.swf",
+           "img" : "assets/images/img143.avif"
+       },
+       {
+           "name": "Ducklife4",
+           "path": "gfiles/gfiles/flash/?swf=ducklife4.swf",
+           "img" : "assets/images/img144.webp"
+       },
+       {
+           "name": "Earntodie",
+           "path": "gfiles/gfiles/flash/?swf=earntodie.swf",
+           "img" : "assets/images/img145.png"
+       },
+       {
+           "name": "Earntodie2",
+           "path": "gfiles/gfiles/flash/?swf=earntodie2.swf",
+           "img" : "assets/images/img146.png"
+       },
+       {
+           "name": "Earntodiesuperwheel",
+           "path": "gfiles/gfiles/flash/?swf=earntodiesuperwheel.swf",
+           "img" : "assets/images/img147.png"
+       },
+       {
+           "name": "Electricman2",
+           "path": "gfiles/gfiles/flash/?swf=electricman2.swf",
+           "img" : "assets/images/img148.jpg"
+       },
+       {
+           "name": "Elephantquest",
+           "path": "gfiles/gfiles/flash/?swf=elephantquest.swf",
+           "img" : "assets/images/img149.jpg"
+       },
+       {
+           "name": "Epicbattlefantasy3",
+           "path": "gfiles/gfiles/flash/?swf=epicbattlefantasy3.swf",
+           "img" : "assets/images/img150.webp"
+       },
+       {
+           "name": "Epiccomboredux",
+           "path": "gfiles/gfiles/flash/?swf=epiccomboredux.swf",
+           "img" : "assets/images/img151.webp"
+       },
+       {
+           "name": "Exitpath",
+           "path": "gfiles/gfiles/flash/?swf=exitpath.swf",
+           "img" : "assets/images/img152.jfif"
+       },
+       {
+           "name": "Factoryballs",
+           "path": "gfiles/gfiles/flash/?swf=factoryballs.swf",
+           "img" : "assets/images/img153.png"
+       },
+       {
+           "name": "Factoryballs2",
+           "path": "gfiles/gfiles/flash/?swf=factoryballs2.swf",
+           "img" : "assets/images/img154.jpg"
+       },
+       {
+           "name": "Factoryballs3",
+           "path": "gfiles/gfiles/flash/?swf=factoryballs3.swf",
+           "img" : "assets/images/img155.jpg"
+       },
+       {
+           "name": "Factoryballs4",
+           "path": "gfiles/gfiles/flash/?swf=factoryballs4.swf",
+           "img" : "assets/images/img156.jpg"
+       },
+       {
+           "name": "Flashflightsimulator",
+           "path": "gfiles/gfiles/flash/?swf=flashflightsimulator.swf",
+           "img" : "assets/images/157.jpg"
+       },
+       {
+           "name": "Freerider2",
+           "path": "gfiles/gfiles/flash/?swf=freerider2.swf",
+           "img" : "assets/images/img158.jpg"
+       },
+       {
+           "name": "Johnny Upgrade",
+           "path": "gfiles/gfiles/flash/?swf=johnnyupgrade.swf",
+           "img" : "assets/images/img159.jpg"
+       },
+       {
+           "name": "Slope Game",
+           "path": "gfiles/gfiles/html5/sg/index.html",
+           "img" : "assets/images/img1.jpg"
+       },
+       {
+           "name": "Fancypantsadventure",
+           "path": "gfiles/gfiles/flash/?swf=fancypantsadventure.swf",
+           "img" : "assets/images/fancypants.jpg"
+       },
+       {
+           "name": "Fancypantsadventure2",
+           "path": "gfiles/gfiles/flash/?swf=fancypantsadventure2.swf",
+           "img" : "assets/images/img184.jpg"
+       },
+       {
+           "name": "Fancypantsadventure3",
+           "path": "gfiles/gfiles/flash/?swf=fancypantsadventure3.swf",
+           "img" : "assets/images/img185.avif"
+       },
+       {
+           "name": "Manole",
+           "path": "gfiles/gfiles/flash/?swf=flight.swf",
+           "img" : "assets/images/manole.png"
+       },
+       {
+           "name": "Fracuum",
+           "path": "gfiles/gfiles/flash/?swf=fracuum.swf",
+           "img" : "assets/images/FRACUM.png"
+       },
+      
+       {
+           "name": "Giveuprobot",
+           "path": "gfiles/gfiles/flash/?swf=giveuprobot.swf",
+           "img" : "assets/images/img186.webp"
+       },
+       {
+           "name": "Giveuprobot2",
+           "path": "gfiles/gfiles/flash/?swf=giveuprobot2.swf",
+           "img" : "assets/images/img187.webp"
+       },
+       {
+           "name": "Hanger",
+           "path": "gfiles/gfiles/flash/?swf=hanger.swf",
+           "img" : "assets/images/img167.jpg"
+       },
+       {
+           "name": "Hanger2",
+           "path": "gfiles/gfiles/flash/?swf=hanger2.swf",
+           "img" : "assets/images/img168"
+       },
+       {
+           "name": "Happywheels",
+           "path": "gfiles/gfiles/flash/?swf=happywheels.swf",
+           "img" : "assets/images/img166"
+       },
+       {
+           "name": "Hobo",
+           "path": "gfiles/gfiles/flash/?swf=hobo.swf",
+           "img" : "assets/images/img183.jpeg"
+       },
+       {
+           "name": "Hobo2",
+           "path": "gfiles/gfiles/flash/?swf=hobo2.swf",
+           "img" : "assets/images/img188.jpg"
+       },
+       {
+           "name": "Hobo3",
+           "path": "gfiles/gfiles/flash/?swf=hobo3.swf",
+           "img" : "assets/images/img189.webp"
+       },
+       {
+           "name": "Hobo4",
+           "path": "gfiles/gfiles/flash/?swf=hobo4.swf",
+           "img" : "assets/images/img190.jpg"
+       },
+       {
+           "name": "Hobo5",
+           "path": "gfiles/gfiles/flash/?swf=hobo5.swf",
+           "img" : "assets/images/img191.jpg"
+       },
+       {
+           "name": "Hobo6",
+           "path": "gfiles/gfiles/flash/?swf=hobo6.swf",
+           "img" : "assets/images/img192.png"
+       },
+       {
+           "name": "Hobo7",
+           "path": "gfiles/gfiles/flash/?swf=hobo7.swf",
+           "img" : "assets/images/img169.jpg"
+       },
+       {
+           "name": "Houseofwolves",
+           "path": "gfiles/gfiles/flash/?swf=houseofwolves.swf ",
+           "img" : "assets/images/img193.png"
+       },
+       {
+           "name": "Interactivebuddy",
+           "path": "gfiles/gfiles/flash/?swf=interactivebuddy.swf",
+           "img" : "assets/images/img194.jpg"
+       },
+       {
+           "name": "Jacksmith",
+           "path": "gfiles/gfiles/flash/?swf=jacksmith.swf",
+           "img" : "assets/images/img175.png"
+       },
+       {
+           "name": "Jellytruck",
+           "path": "gfiles/gfiles/flash/?swf=jellytruck.swf",
+           "img" : "assets/images/img195.png"
+       },
+       {
+           "name": "Jumpix2",
+           "path": "gfiles/gfiles/flash/?swf=jumpix2.swf",
+           "img" : "assets/images/jumpix2.png"
+       },
+       {
+           "name": "Knightmaretower",
+           "path": "gfiles/gfiles/flash/?swf=knightmaretower.swf",
+           "img" : "assets/images/img196.jpg"
+       },
+       {
+           "name": "Learn2fly",
+           "path": "gfiles/gfiles/flash/?swf=learn2fly.swf",
+           "img" : "assets/images/img162.jpg"
+       },
+       {
+           "name": "Learn2fly2",
+           "path": "gfiles/gfiles/flash/?swf=learn2fly2.swf",
+           "img" : "assets/images/img164.jpg"
+       },
+       {
+           "name": "Learn2fly3",
+           "path": "gfiles/gfiles/flash/?swf=learn2fly3.swf",
+           "img" : "assets/images/img163.jpg"
+       },
+       {
+           "name": "Magnetface",
+           "path": "gfiles/gfiles/flash/?swf=magnetface.swf",
+           "img" : "assets/images/img198.jpg"
+       },
+       {
+           "name": "Mariocombat",
+           "path": "gfiles/gfiles/flash/?swf=mariocombat.swf",
+           "img" : "assets/images/img199.jpg"
+       },
+       {
+           "name": "Mario Racing",
+           "path": "gfiles/gfiles/flash/?swf=marioracingtournament.swf",
+           "img" : "assets/images/200.jpg"
+       },
+       {
+           "name": "Meatboy",
+           "path": "gfiles/gfiles/flash/?swf=meatboy.swf",
+           "img" : "assets/images/201.png"
+       },
+       {
+           "name": "Megamanprojectx",
+           "path": "gfiles/gfiles/flash/?swf=megamanprojectx.swf",
+           "img" : "assets/images/img202.webp"
+       },
+       {
+           "name": "Metroidelements",
+           "path": "gfiles/gfiles/flash/?swf=metroidelements.swf",
+           "img" : "assets/images/me.png"
+       },
+       {
+           "name": "Mineblocks",
+           "path": "gfiles/gfiles/flash/?swf=mineblocks.swf",
+           "img" : "assets/images/img203.jpg"
+       },
+       {
+           "name": "Minesweeper",
+           "path": "gfiles/gfiles/flash/?swf=minesweeper.swf",
+           "img" : "assets/images/img204.jpg"
+       },
+       {
+           "name": "Mirrorsedge",
+           "path": "gfiles/gfiles/flash/?swf=mirrorsedge.swf",
+           "img" : "assets/images/img205.jpg"
+       },
+       {
+           "name": "Moneymovers",
+           "path": "gfiles/gfiles/flash/?swf=moneymovers.swf",
+           "img" : "assets/images/img206.jpg"
+       },
+       {
+           "name": "Moneymovers3",
+           "path": "gfiles/gfiles/flash/?swf=moneymovers3.swf",
+           "img" : "assets/images/img207.jpg"
+       },
+       {
+           "name": "Motherload",
+           "path": "gfiles/gfiles/flash/?swf=motherload.swf",
+           "img" : "assets/images/img208.webp"
+       },
+       {
+           "name": "Motox3m",
+           "path": "gfiles/gfiles/flash/?swf=motox3m.swf",
+           "img" : "assets/images/img165"
+       },
+       {
+           "name": "Multitask",
+           "path": "gfiles/gfiles/flash/?swf=multitask.swf",
+           "img" : "assets/images/img210.jfif"
+       },
+       {
+           "name": "Mutilateadoll2",
+           "path": "gfiles/gfiles/flash/?swf=mutilateadoll2.swf",
+           "img" : "assets/images/killdoll.png"
+       },  
+       {
+           "name": "Myangel",
+           "path": "gfiles/gfiles/flash/?swf=myangel.swf",
+           "img" : "assets/images/angel.jpg"
+       },   
+       {
+           "name": "Nanotube",
+           "path": "gfiles/gfiles/flash/?swf=nanotube.swf",
+           "img" : "assets/images/nanotube.png"
+       }, 
+          {
+           "name": "Newgroundsrumble",
+           "path": "gfiles/gfiles/flash/?swf=newgroundsrumble.swf",
+           "img" : "assets/images/img160"
+       },    {
+           "name": "Ngame",
+           "path": "gfiles/gfiles/flash/?swf=ngame.swf",
+           "img" : "assets/images/ngame.jpg"
+       },    {
+           "name": "Nitromemustdie",
+           "path": "gfiles/gfiles/flash/?swf=nitromemustdie.swf",
+           "img" : "assets/images/nitrome.jpg"
+       },    {
+           "name": "Nucleus",
+           "path": "gfiles/gfiles/flash/?swf=nucleus.swf",
+           "img" : "assets/images/nuclous.png"
+       },    {
+           "name": "Nv2",
+           "path": "gfiles/gfiles/flash/?swf=nv2.swf",
+           "img" : "assets/images/nv2.webp"
+       },    {
+           "name": "Nyancatlostinspace",
+           "path": "gfiles/gfiles/flash/?swf=nyancatlostinspace.swf",
+           "img" : "assets/images/img161.jpg"
+       },  
+       {
+           "name": "Offroaders",
+           "path": "gfiles/gfiles/flash/?swf=offroaders.swf",
+           "img" : "assets/images/offroaders.jpg"
+       },
+       {   "name": "Onemanarmy2",
+           "path": "gfiles/gfiles/flash/?swf=onemanarmy2.swf",
+           "img" : "assets/images/onemanarmy2.png"
+       },
+       {   "name": "Outofthisworld",
+           "path": "gfiles/gfiles/flash/?swf=outofthisworld.swf",
+           "img" : "assets/images/OUTOFTHISWORD.png"
+       },
+       {   "name": "Pacman",
+           "path": "gfiles/gfiles/flash/?swf=pacman.swf",
+           "img" : "assets/images/pacman.png"
+       },
+       {   "name": "Pandemic",
+           "path": "gfiles/gfiles/flash/?swf=pandemic.swf",
+           "img" : "assets/images/PANDEMIC.jpg"
+       },
+       {   "name": "Pandemic2",
+           "path": "gfiles/gfiles/flash/?swf=pandemic2.swf",
+           "img" : "assets/images/img171.jpg"
+       },
+       {   "name": "Papalouie",
+           "path": "gfiles/gfiles/flash/?swf=papalouie.swf",
+           "img" : "assets/images/papalouie.jpg"
+       },
+       {   "name": "Papalouie2",
+           "path": "gfiles/gfiles/flash/?swf=papalouie2.swf",
+           "img" : "assets/images/img170.jpg"
+       },
+       {   "name": "Papalouie3",
+           "path": "gfiles/gfiles/flash/?swf=papalouie3.swf",
+           "img" : "assets/images/papa-lou-3.png"
+       },
+       {   "name": "Picosschool",
+           "path": "gfiles/gfiles/flash/?swf=picosschool.swf",
+           "img" : "assets/images/school.png"
+       },
+       {   "name": "Picosschool2",
+           "path": "gfiles/gfiles/flash/?swf=picosschool2.swf",
+           "img" : "assets/images/school2.jpg"
+       },
+       {   "name": "Pirates",
+           "path": "gfiles/gfiles/flash/?swf=pirates.swf",
+           "img" : "assets/images/pirates.png"
+       },
+       {   "name": "Polarjump",
+           "path": "gfiles/gfiles/flash/?swf=polarjump.swf",
+           "img" : "assets/images/polar.png"
+       },
+       {   "name": "Portal",
+           "path": "gfiles/gfiles/flash/?swf=portal.swf",
+           "img" : "assets/images/portal.jpg"
+       },
+       {   "name": "Portal2d",
+           "path": "gfiles/gfiles/flash/?swf=portal2d.swf",
+           "img" : "assets/images/portal2.jpg"
+       },
+       {   "name": "Quadrobarreldefence",
+           "path": "gfiles/gfiles/flash/?swf=quadrobarreldefence.swf",
+           "img" : "assets/images/quad.png"
+       },
+     
+   
+       {   "name": "Qwop",
+           "path": "gfiles/gfiles/flash/?swf=qwop.swf",
+           "img" : "assets/images/qwop.png"
+   
+       },
+       {   "name": "Raftwars",
+           "path": "gfiles/gfiles/flash/?swf=raftwars.swf",
+           "img" : "assets/images/img174.avif"
+       },
+       {   "name": "Raftwars2",
+           "path": "gfiles/gfiles/flash/?swf=raftwars2.swf",
+           "img" : "assets/images/raftwars2.png"
+       },
+       {   "name": "Raze",
+           "path": "gfiles/gfiles/flash/?swf=raze.swf",
+           "img" : "assets/images/raze.avif"
+       },
+       {   "name": "Redball",
+           "path": "gfiles/gfiles/flash/?swf=redball.swf",
+           "img" : "assets/images/img176.jpg"
+       },
+       {   "name": "Redball2",
+           "path": "gfiles/gfiles/flash/?swf=redball2.swf",
+           "img" : "assets/images/img177.jpg"
+       },
+       {   "name": "Redball4",
+           "path": "gfiles/gfiles/flash/?swf=redball4.swf",
+           "img" : "assets/images/img178.png"
+       },
+       {   "name": "Redball4v2",
+           "path": "gfiles/gfiles/flash/?swf=redball4v2.swf",
+           "img" : "assets/images/img179.jfif"
+       },
+       {   "name": "Redball4v3",
+           "path": "gfiles/gfiles/flash/?swf=redball4v3.swf",
+           "img" : "assets/images/img180.jfif"
+       },
+       {   "name": "Redshift",
+           "path": "gfiles/gfiles/flash/?swf=redshift.swf",
+           "img" : "assets/images/redshift.png"
+       },
+       {   "name": "Revenant2",
+           "path": "gfiles/gfiles/flash/?swf=revenant2.swf",
+           "img" : "assets/images/rev2.png"
+       },
+       {   "name": "Riddleschool1",
+           "path": "gfiles/gfiles/flash/?swf=riddleschool1.swf",
+           "img" : "assets/images/riddleschool1.png"
+       },
+       {   "name": "Riddleschool2",
+           "path": "gfiles/gfiles/flash/?swf=riddleschool2.swf",
+           "img" : "assets/images/rs2.jpg"
+       },
+       {   "name": "Riddleschool3",
+           "path": "gfiles/gfiles/flash/?swf=riddleschool3.swf",
+           "img" : "assets/images/rs3.jpg"
+       },
+       {   "name": "Riddleschool4",
+           "path": "gfiles/gfiles/flash/?swf=riddleschool4.swf",
+           "img" : "assets/images/rs4.png"
+       },
+       {   "name": "Riddleschool5",
+           "path": "gfiles/gfiles/flash/?swf=riddleschool5.swf",
+           "img" : "assets/images/rs5.jpg"
+       },
+       {   "name": "Riddletransfer",
+           "path": "gfiles/gfiles/flash/?swf=riddletransfer.swf",
+           "img" : "assets/images/rst.webp"
+       },
+       {   "name": "Riddletransfer2",
+           "path": "gfiles/gfiles/flash/?swf=riddletransfer2.swf",
+           "img" : "assets/images/rst2.jpg"
+       },
+   
+       {   "name": "Run2",
+           "path": "gfiles/gfiles/flash/?swf=run2.swf",
+           "img" : "assets/images/img181.png"
+       },
+       {   "name": "Run3",
+           "path": "gfiles/gfiles/flash/?swf=run3.swf",
+           "img" : "assets/images/img2.jpg"
+       },
+       {   "name": "Saszombieassault3",
+           "path": "gfiles/gfiles/flash/?swf=saszombieassault3.swf",
+           "img" : "assets/images/sas.png"
+       },
+       {   "name": "Sentryknight",
+           "path": "gfiles/gfiles/flash/?swf=sentryknight.swf",
+           "img" : "assets/images/sk.png"
+       },
+       {   "name": "Shoppingcarthero3",
+           "path": "gfiles/gfiles/flash/?swf=shoppingcarthero3.swf",
+           "img" : "assets/images/sch3.png"
+       },
+       {   "name": "Siftheads",
+           "path": "gfiles/gfiles/flash/?swf=siftheads.swf",
+           "img" : "assets/images/img182.png"
+       },
+       {   "name": "Siftheads2",
+           "path": "gfiles/gfiles/flash/?swf=siftheads2.swf",
+           "img" : "assets/images/sha2.jpg"
+       },
+       {   "name": "Siftheads3",
+           "path": "gfiles/gfiles/flash/?swf=siftheads3.swf",
+           "img" : "assets/images/sha3.jpg"
+       },
+       {   "name": "Siftheads4",
+           "path": "gfiles/gfiles/flash/?swf=siftheads4.swf",
+           "img" : "assets/images/sha4.jpg"
+       },
+       {   "name": "Siftheads5",
+           "path": "gfiles/gfiles/flash/?swf=siftheads5.swf",
+           "img" : "assets/images/sha5.webp"
+       },
+       {   "name": "Sniperassassin4",
+           "path": "gfiles/gfiles/flash/?swf=sniperassassin4.swf",
+           "img" : "assets/images/sa4.webp"
+       },
+       {   "name": "Sportsheadsfootball",
+           "path": "gfiles/gfiles/flash/?swf=sportsheadsfootball.swf",
+           "img" : "assets/images/shf.webp"
+       },
+       {   "name": "Sportsheadsracing",
+           "path": "gfiles/gfiles/flash/?swf=sportsheadsracing.swf",
+           "img" : "assets/images/sh.jpg"
+       },
+       {   "name": "Sportsheadstennis",
+           "path": "gfiles/gfiles/flash/?swf=sportsheadstennis.swf",
+           "img" : "assets/images/sht.jpg"
+       },
+       {   "name": "Stickrpg",
+           "path": "gfiles/gfiles/flash/?swf=stickrpg.swf",
+           "img" : "assets/images/rpg.webp"
+      
+       },
+       {   "name": "Stickwar",
+           "path": "gfiles/gfiles/flash/?swf=stickwar.swf",
+           "img" : "assets/images/sw.jpg"
+       },
+       {   "name": "Strikeforceheroes2",
+           "path": "gfiles/gfiles/flash/?swf=strikeforceheroes2.swf",
+           "img" : "assets/images/sfh.jpg"
+       },
+       {   "name": "Sugarsugar",
+           "path": "gfiles/gfiles/flash/?swf=sugarsugar.swf",
+           "img" : "assets/images/ss.avif"
+       },
+       {   "name": "Sugarsugar2",
+           "path": "gfiles/gfiles/flash/?swf=sugarsugar2.swf",
+           "img" : "assets/images/ss2.avif"
+       },
+       {   "name": "Sugarsugar3",
+           "path": "gfiles/gfiles/flash/?swf=sugarsugar3.swf",
+           "img" : "assets/images/ss3.avif"
+       },
+      
+       {   "name": "Superfighters",
+           "path": "gfiles/gfiles/flash/?swf=superfighters.swf",
+           "img" : "assets/images/superfighters.webp"
+       },
+       {   "name": "Supermario63",
+           "path": "gfiles/gfiles/flash/?swf=supermario63.swf",
+           "img" : "assets/images/sm63.png"
+       },
+       {   "name": "Supermarioflash",
+           "path": "gfiles/gfiles/flash/?swf=supermarioflash.swf",
+           "img" : "assets/images/supermarioflash1.png"
+       },
+       {   "name": "Supermarioflash2",
+           "path": "gfiles/gfiles/flash/?swf=supermarioflash2.swf",
+           "img" : "assets/images/smf2.jpg"
+       },
+       {   "name": "Supersmashflash",
+           "path": "gfiles/gfiles/flash/?swf=supersmashflash.swf",
+           "img" : "assets/images/ssf.png"
+       },
+       {   "name": "Swordsandsandals2",
+           "path": "gfiles/gfiles/flash/?swf=swordsandsandals2.swf",
+           "img" : "assets/images/sas2.webp"
+       },
+       {   "name": "Tacticalassassin",
+           "path": "gfiles/gfiles/flash/?swf=tacticalassassin.swf",
+           "img" : "assets/images/ta.jpg"
+       },
+       {   "name": "Tanks",
+           "path": "gfiles/gfiles/flash/?swf=tanks.swf",
+           "img" : "assets/images/tank.webp"
+       },
+       {   "name": "Tanktrouble",
+           "path": "gfiles/gfiles/flash/?swf=tanktrouble.swf",
+           "img" : "assets/images/tt.avif"
+       },
+       {   "name": "Tetris",
+           "path": "gfiles/gfiles/flash/?swf=tetris.swf",
+           "img" : "assets/images/tetris.png"
+       },
+       {   "name": "Thegame",
+           "path": "gfiles/gfiles/flash/?swf=thegame.swf",
+           "img" : "assets/images/tg.avif"
+       },
+       {   "name": "Theimpossiblequiz",
+           "path": "gfiles/gfiles/flash/?swf=theimpossiblequiz.swf",
+           "img" : "assets/images/tiq.jpg"
+       },
+       {   "name": "Theimpossiblequiz2",
+           "path": "gfiles/gfiles/flash/?swf=theimpossiblequiz2.swf",
+           "img" : "assets/images/tiq2.avif"
+       },
+       {   "name": "Worldshardestgame2",
+           "path": "gfiles/gfiles/flash/?swf=theworldshardestgame2.swf",
+           "img" : "assets/images/twhg2.jpg"
+       },
+       {   "name": "Thingthingarena",
+           "path": "gfiles/gfiles/flash/?swf=thingthingarena.swf",
+           "img" : "assets/images/tta.jpg"
+       },
+       {   "name": "Thisistheonlylevel",
+           "path": "gfiles/gfiles/flash/?swf=thisistheonlylevel.swf",
+           "img" : "assets/images/titol.png"
+       },
+       {   "name": "Tosstheturtle",
+           "path": "gfiles/gfiles/flash/?swf=tosstheturtle.swf",
+           "img" : "assets/images/sttt.png"
+       },
+       {   "name": "Truckloader4",
+           "path": "gfiles/gfiles/flash/?swf=truckloader4.swf",
+           "img" : "assets/images/tl.png"
+       },
+       {   "name": "Ultimateflashsonic",
+           "path": "gfiles/gfiles/flash/?swf=ultimateflashsonic.swf",
+           "img" : "assets/images/ufs.webp"
+       },
+       {   "name": "Ultimatetactics",
+           "path": "gfiles/gfiles/flash/?swf=ultimatetactics.swf",
+           "img" : "assets/images/ut.jpg"
+       },
+       {   "name": "Unrealflash",
+           "path": "gfiles/gfiles/flash/?swf=unrealflash.swf",
+           "img" : "assets/images/uf3.png"
+       },
+       {   "name": "Warfare1917",
+           "path": "gfiles/gfiles/flash/?swf=warfare1917.swf",
+           "img" : "assets/images/w19.png"
+       },
+       {   "name": "Warfare1944",
+           "path": "gfiles/gfiles/flash/?swf=warfare1944.swf",
+           "img" : "assets/images/w44.png"
+       },
+       {   "name": "Warp",
+           "path": "gfiles/gfiles/flash/?swf=warp.swf",
+           "img" : "assets/images/warp.jpg"
+       },
+       {   "name": "Xenos",
+           "path": "gfiles/gfiles/flash/?swf=xenos.swf",
+           "img" : "assets/images/xen.png"
+       },
+       {   "name": "Xtremecliffdiving",
+           "path": "gfiles/gfiles/flash/?swf=xtremecliffdiving.swf",
+           "img" : "assets/images/CDO.webp"
+       },
+       {   "name": "Yearofthesnake",
+           "path": "gfiles/gfiles/flash/?swf=yearofthesnake.swf",
+           "img" : "assets/images/YOS.png"
+       },
+       {   "name": "Yuriusshouseofspooks",
+           "path": "gfiles/gfiles/flash/?swf=yuriusshouseofspooks.swf",
+           "img" : "assets/images/hos.png"
+       },
+       {   "name": "Zombiealienparasites",
+           "path": "gfiles/gfiles/flash/?swf=zombiealienparasites.swf",
+           "img" : "assets/images/ap.jpg"
+       },
+       {   "name": "Vex 6",
+           "path": "gfiles/gfiles/html5/vex6",
+           "img" : "assets/images/img222.png"
+       },
+       {
+        "name": "Stuble Guys Online",
+        "path": "gfiles/gfiles/lanucher/index.html?url=https://now.gg/play/kitka-games/7999/stumble-guys/",
+        "img" : "assets/images/img214"
+    },
+
+    {
+      "name": "Sans",
+      "path": "gfiles/gfiles/html5/sans",
+      "img": "gfiles/gfiles/html5/sans/icon-128.png"
+  },
+
+
+       {   "name": "FS Mario",
+           "path": "gfiles/gfiles/html5/FullScreenMario/Source/index.htm",
+           "img" : "assets/images/fsmar.png"
+       },   
+       
+    {
+           "name": "Captain Callisto",
+           "path": "gfiles/gfiles/html5/captaincallisto/index.html",
+           "img" : "assets/images/img76.jpg"
+           
+       }, 
+       {
+        "name": "Fire Boy & Water Girl",
+        "path": "gfiles/gfiles/html5/fbwg/index.html",
+        "img" : "assets/images/img12.png"
+    },
+    
+  {
+    "name": "Achilles",
+    "img" : "assets/images/achiles.png",
+    "path": "gfiles/gfiles/flash/?swf=Achilles.swf"
+    
+  },
+  {
+    "name": "Age of War",
+    "img" : "assets/images/ageofwar.jpg",
+    "path": "gfiles/gfiles/flash/?swf=Age-of-War.swf"
+    
+  },
+  {
+    "name": "Avalanche",
+    "img" : "assets/images/avalanche.jpg",
+    "path": "gfiles/gfiles/flash/?swf=Avalanche.swf"
+    
+  },
+  {
+    "name": "Avatar Arena",
+    "img" : "assets/images/AA.jpg",
+    "path": "gfiles/gfiles/flash/?swf=AvatarArena.swf"
+    
+  },
+  {
+    "name": "Achievement Unlocked",
+    "img" : "assets/images/achievement-unlocked-3.jpg",
+    "path": "gfiles/gfiles/flash/?swf=achievement-unlocked.swf"
+    
+  },
+  {
+    "name": "Alien Hominid",
+    "img" : "assets/images/ah.png",
+    "path": "gfiles/gfiles/flash/?swf=alien-hominid.swf"
+    
+  },
+  {
+    "name": "Amberial",
+    "img" : "assets/images/amb.webp",
+    "path": "gfiles/gfiles/flash/?swf=amberial.swf"
+    
+  },
+  {
+    "name": "Animal Hunter",
+    "img" : "assets/images/ah.jpg",
+    "path": "gfiles/gfiles/flash/?swf=animal_hunter.swf"
+    
+  },
+  {
+    "name": "Ant Buster",
+    "img" : "assets/images/ab.png",
+    "path": "gfiles/gfiles/flash/?swf=antbuster.swf"
+    
+  },
+  {
+    "name": "Apple Shooter",
+    "img" : "assets/images/apple-shooter.jpg",
+    "path": "gfiles/gfiles/flash/?swf=apple-shooter-2021.swf"
+    
+  },
+  {
+    "name": "Arkanoid",
+    "img" : "assets/images/amx.avif",
+    "path": "gfiles/gfiles/flash/?swf=arkanoid.swf"
+    
+  },
+  {
+    "name": "Asteroids",
+    "img" : "assets/images/astroids.jpg",
+    "path": "gfiles/gfiles/flash/?swf=asteroids.swf"
+    
+  },
+  {
+    "name": "Axis Football League",
+    "img" : "assets/images/afl.jpg",
+    "path": "gfiles/gfiles/flash/?swf=axisfootballleague.swf"
+    
+  },
+  {
+    "name": "Break Lock",
+    "img" : "assets/images/img74.jpg",
+    "path": "gfiles/gfiles/html5/breaklock/index.html"
+    
+  },
+
+ 
+  {
+    "name": "Pacman",
+    "img" : "assets/images/pacman.png",
+    "path": "gfiles/gfiles/html5/pacman/index.html"
+    
+  },
+  {
+    "name": "13 Days in Hell",
+    "img" : "assets/images/dih.jpg",
+    "path": "gfiles/gfiles/flash/?swf=13-days-in-hell.swf"
+    
+  },
+ 
+  {
+    "name": "3D Car Driver",
+    "img" : "assets/images/3dcar.png",
+    "path": "gfiles/gfiles/flash/?swf=3D-Car-Driver.swf"
+    
+  },
+  {
+    "name": "3Foot Ninja",
+    "img" : "assets/images/3foot.jpg",
+    "path": "gfiles/gfiles/flash/?swf=3_foot_ninja.swf"
+    
+  },
+  {
+    "name": "50 states",
+    "img" : "assets/images/usa.png",
+    "path": "gfiles/gfiles/flash/?swf=50states.swf"
+    
+  },
+  {
+    "name": "3on3 Hockey",
+    "img" : "assets/images/3v3hockey.png",
+    "path": "gfiles/gfiles/flash/?swf=3_on_3_hockey.swf"
+    
+  },
+  {
+    "name": "8Ball Pool",
+    "img" : "assets/images/8bp.png",
+    "path": "gfiles/gfiles/flash/?swf=8BallPool.swf"
+    
+  },
+  {
+    "name": "Bloons",
+    "img" : "assets/images/mb.avif",
+    "path": "gfiles/gfiles/flash/?swf=Bloons.swf"
+    
+  },
+  {
+    "name": "Falldown",
+    "img" : "assets/images/fall.png",
+    "path": "gfiles/gfiles/flash/?swf=Falldown.swf"
+    
+  },
+  
+  
+  {
+    "name": "Acid Bunny 2",
+    "img" : "assets/images/acid-bunny-2.jpg",
+    "path": "gfiles/gfiles/flash/?swf=acid-bunny-2.swf"
+    
+  },
+  {
+    "name": "Acid Bunny",
+    "img" : "assets/images/ab1.jpg",
+    "path": "gfiles/gfiles/flash/?swf=acid-bunny.swf"
+    
+  },
+  {
+    "name": "Ball Breaker",
+    "img" : "assets/images/bb.png",
+    "path": "gfiles/gfiles/flash/?swf=ball-breaker.swf"
+    
+  },
+  {
+    "name": "Bejeweled",
+    "img" : "assets/images/bjc.png",
+    "path": "gfiles/gfiles/flash/?swf=bejeweled-unblocked.swf"
+    
+  },
+  {
+    "name": "Bike Mania",
+    "img" : "assets/images/bm.png",
+    "path": "gfiles/gfiles/flash/?swf=bikemania.swf"
+    
+  },
+  {
+    "name": "Bike Mania 2",
+    "img" : "assets/images/bm2.jpg",
+    "path": "gfiles/gfiles/flash/?swf=bikemania2.swf"
+    
+  },
+ 
+ 
+  {
+    "name": "Blobink 2",
+    "img" : "assets/images/bloooo.png",
+    "path": "gfiles/gfiles/flash/?swf=blobink2.swf"
+    
+  },
+  {
+    "name": "Bloons Tower Defense 2",
+    "img" : "assets/images/bdd.webp",
+    "path": "gfiles/gfiles/flash/?swf=bloons_tower_defense_2.swf"
+    
+  },
+  {
+    "name": "Bubble Trouble",
+    "img" : "assets/images/btc.png",
+    "path": "gfiles/gfiles/flash/?swf=bubbletrouble.swf"
+    
+  },
+  
+  {
+    "name": "Falldown 2",
+    "img" : "assets/images/f2.jpg",
+    "path": "gfiles/gfiles/flash/?swf=falldown2.swf"
+    
+  },
+  {
+    "name": "Gun Mayhem 2",
+    "img" : "assets/images/gm2.jpg",
+    "path": "gfiles/gfiles/flash/?swf=gun-mayhem-2.swf"
+    
+  },
+  {
+    "name": "Gun Mayhem",
+    "img" : "assets/images/gm1.jpg",
+    "path": "gfiles/gfiles/flash/?swf=gun-mayhem.swf"
+    
+  },
+  {
+    "name": "The Impossible Quiz 2",
+    "img" : "assets/images/tic2.avif",
+    "path": "gfiles/gfiles/flash/?swf=impossiblequiz2.swf"
+    
+  },
+  {
+    "name": "Last Stand Union City",
+    "img" : "assets/images/lauc.png",
+    "path": "gfiles/gfiles/flash/?swf=the-last-stand-union-city.swf"
+    
+  },
+  {
+    "name": "Worlds Hardest Game 2",
+    "img" : "assets/images/whg2.png",
+    "path": "gfiles/gfiles/flash/?swf=worldshardestgame2.swf"
+    
+  },
+  {
+    "name": "Zombocalypse",
+    "img" : "assets/images/zom.jpg",
+    "path": "gfiles/gfiles/flash/?swf=zombocalypse.swf"
+    
+  },
+  {
+    "name": "Canyon Defense",
+    "img" : "assets/images/cdfd.jpg",
+    "path": "gfiles/gfiles/flash/?swf=Canyon Defense.swf"
+    
+  },
+  {
+    "name": "Copter",
+    "img" : "assets/images/copt.png",
+    "path": "gfiles/gfiles/flash/?swf=Copter.swf"
+    
+  },
+
+  {
+    "name": "Donkey Kong",
+    "img" : "assets/images/donkey.webp",
+    "path": "gfiles/gfiles/flash/?swf=DonkeyKong.swf"
+    
+  },
+  {
+    "name": "Draw Play",
+    "img" : "assets/images/draw-play-game.webp",
+    "path": "gfiles/gfiles/flash/?swf=Drawplay.swf"
+    
+  },
+  {
+    "name": "Draw Play 2",
+    "img" : "assets/images/dp2.jpg",
+    "path": "gfiles/gfiles/flash/?swf=DrawPlay2.swf"
+    
+  },
+  {
+    "name": "The Beard",
+    "img" : "assets/images/tb.jpg",
+    "path": "gfiles/gfiles/flash/?swf=castlecrashingthebeard.swf"
+    
+  },
+  {
+    "name": "Choose Your Weapon 2",
+    "img" : "assets/images/cyw2.png",
+    "path": "gfiles/gfiles/flash/?swf=chooseyourweapon2_LB.swf"
+    
+  },
+  {
+    "name": "Clear Vision",
+    "img" : "assets/images/cv.png",
+    "path": "gfiles/gfiles/flash/?swf=clear-vision.swf"
+    
+  },
+  {
+    "name": "Clear Vision Elite",
+    "img" : "assets/images/cve.jpg",
+    "path": "gfiles/gfiles/flash/?swf=clearvisionelite.swf"
+    
+  },
+  {
+    "name": "Crazy Taxi",
+    "img" : "assets/images/ct1.webp",
+    "path": "gfiles/gfiles/flash/?swf=crazy-taxi.swf"
+    
+  },
+  {
+    "name": "Cursor 10",
+    "img" : "assets/images/c10.jpg",
+    "path": "gfiles/gfiles/flash/?swf=cursor10.swf"
+    
+  },
+  {
+    "name": "Dad N' Me",
+    "img" : "assets/images/dnm.jpg",
+    "path": "gfiles/gfiles/flash/?swf=dadnme.swf"
+    
+  },
+  {
+    "name": "Dance of the Robots",
+    "img" : "assets/images/rdp.png",
+    "path": "gfiles/gfiles/flash/?swf=danceoftherobots.swf"
+    
+  },
+  {
+    "name": "Dental Adventure",
+    "img" : "assets/images/da.webp",
+    "path": "gfiles/gfiles/flash/?swf=dental-adventure.swf"
+    
+  },
+  {
+    "name": "Duck Hunt",
+    "img" : "assets/images/dh.png",
+    "path": "gfiles/gfiles/flash/?swf=duck-hunt.swf"
+    
+  },
+  {
+    "name": "DX Hockey",
+    "img" : "assets/images/dxh.jpg",
+    "path": "gfiles/gfiles/flash/?swf=dxhockey.swf"
+    
+  },
+  {
+    "name": "Bloxors",
+    "img" : "assets/images/blox.jpg",
+    "path": "gfiles/gfiles/flash/?swf=Bloxors.swf"
+    
+  },
+  {
+    "name": "Bullet Bill 2",
+    "img" : "assets/images/bb2.png",
+    "path": "gfiles/gfiles/flash/?swf=Bullet Bill 2.swf"
+    
+  },
+  {
+    "name": "Bullet Bill 3",
+    "img" : "assets/images/bb3.webp",
+    "path": "gfiles/gfiles/flash/?swf=Bullet Bill 3.swf"
+    
+  },
+  {
+    "name": "Bomb a Bomb",
+    "img" : "assets/images/bab.png",
+    "path": "gfiles/gfiles/flash/?swf=bombabomb.swf"
+    
+  },
+  {
+    "name": "Bow Man",
+    "img" : "assets/images/bom.webp",
+    "path": "gfiles/gfiles/flash/?swf=bowman.swf"
+    
+  },
+  {
+    "name": "Bow Man 2",
+    "img" : "assets/images/bom2.jpg",
+    "path": "gfiles/gfiles/flash/?swf=bowman2.swf"
+    
+  },
+  {
+    "name": "Bowmaster",
+    "img" : "assets/images/bowm.png",
+    "path": "gfiles/gfiles/flash/?swf=bowmaster.swf"
+    
+  },
+  {
+    "name": "Bowmaster Prelude",
+    "img" : "assets/images/bowmp.jpg",
+    "path": "gfiles/gfiles/flash/?swf=bowmasterprelude.swf"
+    
+  },
+  {
+    "name": "Bubble Shooter",
+    "img" : "assets/images/bs.png",
+    "path": "gfiles/gfiles/flash/?swf=bubble shooter.swf"
+    
+  },
+  {
+    "name": "Bubble Tanks 2",
+    "img" : "assets/images/bt.jpg",
+    "path": "gfiles/gfiles/flash/?swf=bubble_tanks_2.swf"
+    
+  },
+  {
+    "name": "Bullet Bill",
+    "img" : "assets/images/bbb.jpg",
+    "path": "gfiles/gfiles/flash/?swf=bullet-bill.swf"
+    
+  },
+  {
+    "name": "Burger Tycoon",
+    "img" : "assets/images/bty.png",
+    "path": "gfiles/gfiles/flash/?swf=burgertycoon.swf"
+    
+  },
+
+  {
+    "name": "Boxhead 2",
+    "img" : "assets/images/bh2.png",
+    "path": "gfiles/gfiles/flash/?swf=dagobah_boxhead_2.swf"
+    
+  },
+  {
+    "name": "Electric Man",
+    "img" : "assets/images/em.png",
+    "path": "gfiles/gfiles/flash/?swf=ElectricMan.swf"
+    
+  },
+  {
+    "name": "Excite Bike",
+    "img" : "assets/images/eb.jpg",
+    "path": "gfiles/gfiles/flash/?swf=ExciteBike.swf"
+    
+  },
+  {
+    "name": "Feudalism 2",
+    "img" : "assets/images/f2.png",
+    "path": "gfiles/gfiles/flash/?swf=Feudalism2.swf"
+    
+  },
+  {
+    "name": "Flood Runner 3",
+    "img" : "assets/images/fr3.png",
+    "path": "gfiles/gfiles/flash/?swf=Flood_Runner3.swf"
+    
+  },
+  {
+    "name": "Flood Runner 4",
+    "img" : "assets/images/fr4.jpg",
+    "path": "gfiles/gfiles/flash/?swf=Flood_Runner_4.swf"
+    
+  },
+  {
+    "name": "Flood Runner 2",
+    "img" : "assets/images/fr2.png",
+    "path": "gfiles/gfiles/flash/?swf=The_Flood_Runner_2.swf"
+    
+  },
+  {
+    "name": "Earth bound",
+    "img" : "assets/images/etb.png",
+    "path": "/emulator/snes/earthbound.smc"
+    
+  },
+  {
+    "name": "Effing Worms",
+    "img" : "assets/images/eiw.png",
+    "path": "gfiles/gfiles/flash/?swf=effingworms.swf"
+    
+  },
+  {
+    "name": "Fat Ninja",
+    "img" : "assets/images/fn.jpg",
+    "path": "gfiles/gfiles/flash/?swf=fat-ninja.swf"
+    
+  },
+  {
+    "name": "Feudalism",
+    "img" : "assets/images/feud.png",
+    "path": "gfiles/gfiles/flash/?swf=feudalism.swf"
+    
+  },
+  {
+    "name": "Flashcraft",
+    "img" : "assets/images/fs.png",
+    "path": "gfiles/gfiles/flash/?swf=flashcraft.swf"
+    
+  },
+  {
+    "name": "Free Rider 2",
+    "img" : "assets/images/frg2.jpg",
+    "path": "gfiles/gfiles/flash/?swf=freerider2.swf"
+    
+  },
+  {
+    "name": "Frogger",
+    "img" : "assets/images/frg.png",
+    "path": "gfiles/gfiles/flash/?swf=frogger.swf"
+    
+  },
+  {
+    "name": "Grow RPG",
+    "img" : "assets/images/grpg.webp",
+    "path": "gfiles/gfiles/flash/?swf=growrpg.swf"
+    
+  },
+  {
+    "name": "Gods Playing Field",
+    "img" : "assets/images/gpf.jpg",
+    "path": "gfiles/gfiles/flash/?swf=Gods Playing Field.swf"
+    
+  },
+  {
+    "name": "Grid Lock",
+    "img" : "assets/images/gr.avif",
+    "path": "gfiles/gfiles/flash/?swf=Gridlock.swf"
+    
+  },
+  {
+    "name": "Hobo",
+    "img" : "assets/images/hof.jpg",
+    "path": "gfiles/gfiles/flash/?swf=Hobo.swf"
+    
+  },
+  {
+    "name": "Indestructo Tank",
+    "img" : "assets/images/it.jpg",
+    "path": "gfiles/gfiles/flash/?swf=IndestructoTank.swf"
+    
+  },
+ 
+  {
+    "name": "Mario Revived",
+    "img" : "assets/images/mrm.jpg",
+    "path": "gfiles/gfiles/flash/?swf=Mariorevived.swf"
+    
+  },
+  {
+    "name": "Max Dirt Bike 1",
+    "img" : "assets/images/mdb.jpg",
+    "path": "gfiles/gfiles/flash/?swf=MaxDirtBike1.swf"
+    
+  },
+  {
+    "name": "Monopoly",
+    "img" : "assets/images/monopoly.png",
+    "path": "gfiles/gfiles/flash/?swf=Monopoly.swf"
+    
+  },
+  {
+    "name": "N (retro game)",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=N.swf"
+    
+  },
+  {
+    "name": "Parachute",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=Parachute.swf"
+},
+  
+  {
+    "name": "Prince of War",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=PrinceofWar.swf"
+    
+  },
+  {
+    "name": "Prince of War 2",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=PrinceofWar2.swf"
+    
+  },
+  {
+    "name": "Raft Wars",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=RaftWars.swf"
+    
+  },
+  {
+    "name": "Shock 1",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=SHOCK1.swf"
+    
+  },
+  {
+    "name": "Stick War",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=Stick War.swf"
+    
+  },
+  {
+    "name": "Storm the House 2",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=StormtheHouse2.swf"
+    
+  },
+  {
+    "name": "Tactical Assassin",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=TacticalAssassin.swff"
+    
+  },
+  {
+    "name": "Tactical Assassin 2",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=TacticalAssassin2.swf"
+    
+  },
+  {
+    "name": "The Unfair Platformer",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=The Unfair Platformer.swf"
+    
+  },
+  {
+    "name": "Toss the Turtle",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=Toss The Turtle.swf"
+    
+  },
+  {
+    "name": "Zelda",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=Zelda.swf"
+    
+  },
+  {
+    "name": "Zoeken",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=Zoeken.swf"
+    
+  },
+  {
+    "name": "Armor RPG Experiment",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=armorrpg_mod.swf"
+    
+  },
+  {
+    "name": "Galaga",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=galaga.swf"
+    
+  },
+  {
+    "name": "Geo Land RPG",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=geolandrpg.swf"
+    
+  },
+  {
+    "name": "Grid 16",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=grid16.swf"
+    
+  },
+  {
+    "name": "Grow Island",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=growisland.swf"
+    
+  },
+  {
+    "name": "Gun Blood",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=gunblood.swf"
+    
+  },
+  {
+    "name": "Hell Cops",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=hell-cops.swf"
+    
+  },
+  {
+    "name": "Hexxagon",
+    "img" : "assets/images/hexagon.png",
+    "path": "gfiles/gfiles/flash/?swf=hexxagon.swf"
+    
+  },
+  {
+    "name": "Hobo 4: Total War",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=hobo-4-total-war-749179f9.swf"
+    
+  },
+  {
+    "name": "Hobo 5: Space Brawls",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=hobo-5-space-brawls--11410f2f2.swf"
+    
+  },
+  {
+    "name": "Hobo 6: Hell",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=hobo-6-hell-136403467.swf"
+    
+  },
+  {
+    "name": "Hobo 7: Heaven",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=hobo-7-heaven-14404_6.swf"
+    
+  },
+  {
+    "name": "Hobo 3: Wanted",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=hobo3-wanted-5673395b.swf"
+    
+  },
+  {
+    "name": "Hobo Prison Brawl",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=hoboprisonbrawl.swf"
+    
+  },
+  {
+    "name": "Hot Corn",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=hotcorn.swf"
+    
+  },
+  {
+    "name": "Impossible Quiz Book",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=impossiblequizbook.swf"
+    
+  },
+  {
+    "name": "Indestructo Tank 2",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=indestructotank2.swf"
+    
+  },
+  {
+    "name": "Interactive Buddy 2",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=interactivebuddy2.swf"
+    
+  },
+  {
+    "name": "Internet RPG",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=internet-rpg.swf"
+    
+  },
+  {
+    "name": "Jump",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=jump.swf"
+    
+  },
+  {
+    "name": "Kung Fu Remix 2",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=kungfuremix2.swf"
+    
+  },
+  {
+    "name": "Line Game Orange",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=linegameorange.swf"
+    
+  },
+  {
+    "name": "Mario Combat",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=mariocombat.swf"
+    
+  },
+  {
+    "name": "Mini Putt",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=miniputt.swf"
+    
+  },
+  {
+    "name": "Only Level",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=onlylevel.swf"
+    
+  },
+  {
+    "name": "PacXon",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=pacxon.swf"
+    
+  },
+  {
+    "name": "Pandemic 1",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=pandemic-1.swf"
+    
+  },
+  {
+    "name": "Pandemic 2",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=pandemic2.swf"
+    
+  },
+  {
+    "name": "Parking Mania",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=parkingmania.swf"
+    
+  },
+  {
+    "name": "Raft Wars 2",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=raft-wars-2_mochi_secure.swf"
+    
+  },
+  {
+    "name": "Real Estate Tycoon",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=real-estate-tycoon-1350817f.swf"
+    
+  },
+  {
+    "name": "Red Shift",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=redshift.swf "
+    
+  },
+  {
+    "name": "Robot Unicorn Attack",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=robotunicornattack.swf"
+    
+  },
+  {
+    "name": "Sift Heads 1",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=sift-heads-1.swf"
+    
+  },
+  {
+    "name": "Sift Heads 2",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=sift-heads-2.swf"
+    
+  },
+  {
+    "name": "Sift Heads 3",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=sift-heads-3.swf"
+    
+  },
+  {
+    "name": "Sift Heads 4",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=sift-heads-4.swf"
+    
+  },
+  {
+    "name": "Sift Heads 5",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=sift-heads-5.swf"
+    
+  },
+  {
+    "name": "Sift Heads World",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=sift_heads_world.swf"
+    
+  },
+  {
+    "name": "Sim Web 2.0 Company",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=simweb2.0company.swf"
+    
+  },
+  {
+    "name": "Skull Kid",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=skull_kid.swf"
+    
+  },
+  {
+    "name": "Sky Wire",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=skywire.swf"
+    
+  },
+  {
+    "name": "Spank the Monkey",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=spankthemonkey.swf"
+    
+  },
+  {
+    "name": "Spider Man",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=spider-man.swf"
+    
+  },
+  {
+    "name": "Sprinter",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=sprinter"
+    
+  },
+  {
+    "name": "Stick RPG",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=stickrpg.swf"
+    
+  },
+  {
+    "name": "Submachine 1",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=submachine_1.swf"
+    
+  },
+  {
+    "name": "Submachine 2",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=submachine_2.swf"
+    
+  },
+  {
+    "name": "Submachine 3",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=submachine_3.swf"
+    
+  },
+  {
+    "name": "Super Smash Flash",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=super_smash_flash.swf"
+    
+  },
+  {
+    "name": "Super Mario 63",
+    "img" : "assets/images/sm63.png",
+    "path": "gfiles/gfiles/flash/?swf=supermario63.swf"
+    
+  },
+  {
+    "name": "Treasure Seas ",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=treasureseas.swf"
+    
+  },
+  {
+    "name": "Tron",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=tron.swf"
+    
+  },
+  {
+    "name": "Tsunami Fighter",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=tsunamifighter.swf"
+    
+  },
+  {
+    "name": "Use Boxmen",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=use-boxmen.swf"
+    
+  },
+  
+  {
+    "name": "Kitten Cannon",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=yetiGamesKitten Cannon.swf"
+    
+  },
+  {
+            "name": "Drift Hunters",
+            "path": "gfiles/gfiles/html5/drift-hunters/index.html",
+            "img" : "assets/images/img53.png"
+        }, 
+        {
+    "name": "TU-95",
+    "img" : "",
+    "path": "gfiles/gfiles/flash/?swf=TU-95.swf"
+    
+  },
+   {
+"name": "Roblox",
+"path": "gfiles/gfiles/lanucher/index.html?url=https://bgs.pages.dev/404.html",
+"img" : "assets/images/img59.png"
+},
+{
+
+   "name": "Krunker.io",
+   "path": "gfiles/gfiles/lanucher/index.html?url=https://krunker.io/",
+   "img" : "assets/images/img65.png"
+   },
+
+   {
+    "name": "Temple Run 2",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://bigfoot9999.github.io/html5-games/games/templerun2/",
+    "img" : "assets/images/img58.png"
+}, 
+{
+    "name": "Football Master",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://football-master-1.bigfootgaming99.repl.co/",
+    "img" : "assets/images/soccer-master.png"
+},
+{
+    
+    "name": "Burrito Bison",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://grandcanyonshuttles.com/uploads/5/5/6/7/5567194/custom_themes/607721921917323670/burrito-bison-ll.html",
+    
+    "img" : "assets/images/img4.jpg"
+},
+{
+    "name": "SubSurfers Huston",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://more-school.bigfootgaming99.repl.co/",
+    "img" : "assets/images/HoustonSS"
+},
+{
+    
+    "name": "Champion island",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://bigfoot9999.github.io/html5-games/games/google-kitsune/",
+    
+    "img" : "assets/images/img3.png"
+},
+{
+    
+    "name": "LZ: Link to the Past",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://t-rexrunner.github.io/GBA-Games/launcher.html#zelda_past",
+    
+    "img" : "assets/images/img5.jpg"
+},
+{
+    
+    "name": "LZ: Minish Cap",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://t-rexrunner.github.io/GBA-Games/launcher.html#zelda_minish",
+    
+    "img" : "assets/images/img6.jpg"
+},
+{
+    
+    "name": "Mario Party",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://t-rexrunner.github.io/GBA-Games/launcher.html#marioparty",
+    
+    "img" : "assets/images/img7.jpg"
+},
+{
+    
+    "name": "Mortal Kombat",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://t-rexrunner.github.io/GBA-Games/launcher.html#mortal_kombat",
+    
+    "img" : "assets/images/img8.jpg"
+},
+{
+    
+    "name": "Kuru Panda",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://www.panda2.io/content/games/kurupanda/",
+    
+    "img" : "assets/images/img9.png"
+},
+{
+"name": "Indian Truck Sim",
+"img" : "assets/images/indiantruck.png",
+"path": "gfiles/gfiles/lanucher/index.html?url=https://too-advanced-for-society.gq/tam-indian-truck-simulator-3d/"
+
+},
+{
+    
+    "name": "Space Company",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://spacecompany.ga/",
+    
+    "img" : "assets/images/img11.jpg"
+},
+
+{
+    "name": "Insanity",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://insanity.netlify.app/",
+    
+    "img" : "assets/images/img21.png"
+},
+{
+    "name": "Insanity 2",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://insanity2.netlify.app/",
+    
+    "img" : "assets/images/img22.png"
+},
+{
+    "name": "Bottle Flip 3d",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://grandcanyonshuttles.com/uploads/5/0/5/6/5056555/custom_themes/664718197367015386/bottle-flip.html",
+    
+    "img" : "assets/images/img23.jpg"
+},
+{
+    "name": "GTA",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://grandcanyonshuttles.com/uploads/5/5/6/7/5567194/custom_themes/850704625817689097/gas2.html",
+    
+    "img" : "assets/images/img24.jpg"
+},
+{
+    "name": "CurveBall",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://www2.engineering.com/content/g13/curve23.html",
+    
+    "img" : "assets/images/img25.jpg"
+},
+
+{
+    "name": "Headless.gg",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://headless.gg/",
+    
+    "img" : "assets/images/img27.png"
+},
+{
+    "name": "Amoug Us",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://school.bigfootgaming99.repl.co/",
+    "img" : "assets/images/img223"
+},
+{
+    
+    "category": "Action",
+    "name": "OvO",
+    "path": "gfiles/gfiles/html5/ovo/index.html",
+    "img" : "assets/images/img30.png"
+},
+{
+    
+    "category": "Puzzle",
+    "name": "Slither.io",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://www.julgames.com/games/slither-snakes/",
+    "img" : "assets/images/img31.png"
+},
+
+{
+    
+    "category": "Puzzle",
+    "name": "Woriar",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://www.panda2.io/content/games/woriar/",
+    "img" : "assets/images/img38.png"
+},
+{   
+    
+    "category": "Action",
+    "name": "lets Surf!",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://bigfoot9999.github.io/html5-games/games/edge-surf/",
+    "img" : "assets/images/img52.jpg"
+    },
+     
+{
+    
+    "name": "Tower Building",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://fracital.org/g/tower-building/index.html",
+    
+    "img" : "assets/images/img60.png"
+}, 
+{
+    
+    "name": "Lol Beans",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://lolbeans.io/",
+    
+    "img" : "assets/images/img113"
+}, 
+{
+    "name": "Eagler Server",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://boostcookies.tk/sw/hvtrs8%2F-ecgnepcpadt%2Fsgrtep.cywncmk2202.perl%2Ccm%2F",
+    "img": "../images/grass.png"
+},
+{
+    "name": "Arch MC Server",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://web.arch.lol/?",
+    "img": "../images/archmc"
+},
+{
+    "name": "Piano Master",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://play.gamemonetize.co/q0mrnyr9ucvgdqgooq9cq0y7fntuwzjj/",
+    "img" : "assets/images/img61.jpg"
+}, 
+{
+    "name": "Bob The Robber",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://play.gamemonetize.co/axjqhwihwo843nmu8hb30fqil40alqtu/",
+    "img" : "assets/images/img63"
+},
+{
+    "name": "Driving in the City",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://play.gamemonetize.co/5e7ehppi0cufmsfktf2yy5sb6u3d1nwf/",
+    "img" : "assets/images/img67.jpg"
+},
+{
+    "name": "Blumji Rocket",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://play.gamemonetize.co/x9szn9qmh0ygsmct93p7mny35850lpx1/",
+    "img" : "assets/images/img213"
+},
+{
+   "name": "BasketBall Stars",
+   "path": "gfiles/gfiles/lanucher/index.html?url=404.html",
+   "img" : "assets/images/img215"
+   },
+{
+    "name": "Pokemon Silver",
+    "path": "gfiles/gfiles/lanucher/index.html?url=404.html",
+    "img" : "assets/images/img217"
+},
+{
+    "name": "Diep.io",
+    "path": "gfiles/gfiles/lanucher/index.html?url=404.html",
+    "img" : "assets/images/img218"
+},
+
+{
+    "name": "Subway Surfers",
+    "path": "gfiles/gfiles/lanucher/index.html?url=404.html",
+    "img" : "assets/images/img221"
+},
+{
+    
+    "name": "Cookie Clicker",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://bigfoot9999.github.io/cc/",
+    "img" : "assets/images/img29.png"
+}, 
+
+{
+    "name": "Vivalda",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://bigfoot9999.github.io/html5-games/games/vivaldia/",
+    "img" : "assets/images/img84.png"
+},     
+{
+    
+    "name": "1v1.lol",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://rnv3.pages.dev/G/1v1.lol/",
+    "img" : "assets/images/img46.jpg"
+}, 
+  {
+    
+    "name": "1v1.lol(Server 2)",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://nowcollege.com/uploads/5/5/6/7/5567194/custom_themes/315300867982782623/1v1_lol.html",
+    "img" : "assets/images/img46.jpg"
+}, 
+  {
+    
+    "name": "Zombs Royale",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://theadvancedsociety-tam.tbt.mx/tmm-zombsroyale/",
+    "img" : "assets/images/img47.png"
+}, 
+{
+    
+    "name": "Shell Shockers",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://tam-shellshockers.arfotoarte.com/",
+    "img" : "assets/images/img48.png"
+}, 
+{
+   
+    "name": "Blockpost.io",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://ikatchelo.github.io/blockpost/",
+    "img" : "assets/images/img45.png"
+}, 
+{
+   
+    "name": "Rooftop Snipers",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://bigfoot9999.github.io/3kh0.github.io/projects/rooftop-snipers/",
+    "img" : "assets/images/img49.png"
+}, 
+{
+    
+    "name": "Pixel Combat 2",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://grandcanyonshuttles.com/uploads/5/0/5/6/5056555/custom_themes/607463927942590340/pixel-combat2.html",
+    "img" : "assets/images/img50.jpg"
+}, 
+{
+    
+    "name": "Modern Blocky Paint",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://zayaruzostreetorgan.com/uploads/5/5/6/7/5567194/custom_themes/593675271171586975/modern_blocky_paint_.html",
+    "img" : "assets/images/img51.jpg"
+},
+{
+    
+    "name": "Block Combat Swat",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://html5.gamemonetize.co/z4ajge69b989gm67dq59mkgv20ed6zg6/",
+    "img" : "assets/images/img62"
+},
+
+{
+    
+    "name": "Mini Royale 2",
+    "path": "gfiles/gfiles/lanucher/index.html?url=https://miniroyale.clambam10.repl.co/",
+    "img" : "assets/images/img66"
+},
+{
+    "name": "MooMoo.io",
+    "path": "gfiles/gfiles/lanucher/index.html?url=404.html",
+    "img" : "assets/images/img219"
+},
+
+{
+    
+    "name": "Fortnite",
+    "path": "gfiles/gfiles/lanucher/index.html?url=404.html",
+    "img" : "assets/images/img220"
+},
+ 
+       {
+        "name": "Doomz.io",
+        "path": "gfiles/gfiles/lanucher/index.html?url=https://kardna-v2.herokuapp.com/KardnaV2/hvtrs8%2F-dmooz%2Cim%2F",
+        "img" : "assets/images/doomz-io.png"
+       },
+       {
+        "name": "Stickman Hook",
+        "path": "gfiles/gfiles/lanucher/index.html?url=https://magictricks.milkysdad.repl.co/gamefiles/stickmanhook/",
+        "img" : "assets/images/stickman.jpg"
+       },
+       {
+        "name": "JustFall.LOL",
+        "path": "gfiles/gfiles/lanucher/index.html?url=https://stars-delta.vercel.app/play/justfall-lol/index.html",
+        "img" : "assets/images/justfall.png"
+       },
+       {
+        "name": "Basket Bros",
+        "path": "gfiles/gfiles/lanucher/index.html?url=https://nbadebate.com",
+        "img" : "assets/images/basket-bros.png"
+       },
+       {
+        "name": "Granny",
+        "path": "gfiles/gfiles/lanucher/index.html?url=https://zayaruzostreetorgan.com/uploads/5/5/6/7/5567194/custom_themes/253523348422157506/1granny.html",
+        "img" : "assets/images/granny.png"
+        
+       },
+       {
+        "name": "Gold Digger",
+        "path": "gfiles/gfiles/lanucher/index.html?url=https://bg.kardna4life.ml/uv/service/hvtrs8%2F-gmlfdkgeep.drtr%2Ccmm-",
+        "img" : "assets/images/gold.png"
+       },
+       {
+        "name": "Eagler Craft (Void)",
+        "path": "gfiles/gfiles/lanucher/index.html?url=https://152-voidcraftsmp.v0idplayyz.repl.co/",
+        "img": "../images/grass.png"
+       }
+       
